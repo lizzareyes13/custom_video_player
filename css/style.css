@@ -1,0 +1,49 @@
+
+
+video{
+  display: block;
+  margin: 0 auto;
+  max-width: 95%;
+}
+#headerh1{
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  font-size: 5rem;
+}
+
+#video-controls{
+  margin: 0 auto;
+  z-index: 2;
+}
+
+#video-controls i{
+  position: relative;
+  top: 2.5rem;
+}
+
+#backward{
+  color: white;
+}
+
+#forward{
+  color: white;
+}
+
+#speedUp{
+  color: white;
+}
+
+#speedDown{
+  color: white;
+}
+
+
+#play{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  color: white;
+  position: relative;
+  top: 15rem;
+  z-index: 3;
+}
